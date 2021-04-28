@@ -1,0 +1,125 @@
+{
+.appVersion = "3058";
+.formatVersion = 3;
+DisplayStrings = (
+A
+);
+date = "2021-04-28 18:27:35 +0000";
+familyName = GitFontTest;
+fontMaster = (
+{
+id = m01;
+metricValues = (
+{
+over = 16;
+pos = 800;
+},
+{
+over = -16;
+},
+{
+over = -16;
+pos = -200;
+}
+);
+name = Regular;
+}
+);
+glyphs = (
+{
+glyphname = A;
+lastChange = "2021-04-28 18:31:19 +0000";
+layers = (
+{
+background = {
+shapes = (
+{
+closed = 1;
+nodes = (
+(242,712,l),
+(324,716,l),
+(620,-19,l),
+(584,-12,o),
+(522,-12,o),
+(513,1,c),
+(278,580,l),
+(53,-13,l),
+(-14,14,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(443,251,l),
+(442,291,l),
+(127,289,l),
+(102,227,l)
+);
+}
+);
+};
+layerId = m01;
+shapes = (
+{
+closed = 1;
+nodes = (
+(324,716,l),
+(242,712,l),
+(-14,14,l),
+(53,-13,l),
+(145,230,l),
+(102,227,l),
+(127,289,l),
+(168,289,l),
+(278,580,l),
+(395,291,l),
+(442,291,l),
+(443,251,l),
+(412,249,l),
+(513,1,l),
+(522,-12,o),
+(584,-12,o),
+(620,-19,c)
+);
+},
+{
+closed = 1;
+nodes = (
+(412,249,l),
+(395,291,l),
+(168,289,l),
+(145,230,l)
+);
+}
+);
+width = 600;
+}
+);
+unicode = 65;
+},
+{
+glyphname = space;
+layers = (
+{
+layerId = m01;
+width = 200;
+}
+);
+unicode = 32;
+}
+);
+metrics = (
+{
+type = ascender;
+},
+{
+type = baseline;
+},
+{
+type = descender;
+}
+);
+unitsPerEm = 1000;
+versionMajor = 1;
+versionMinor = 0;
+}
